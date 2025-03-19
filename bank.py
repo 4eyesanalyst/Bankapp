@@ -399,15 +399,3 @@ while True:
     elif choice == "2":
         log_in()
 
-
-
-
-
-# 3. Banking Transactions:
-# - Deposit: Allow logged in users to deposit money into their account.
-# - Withdrawal: Allow logged in users to withdraw money, ensuring sufficient balance.
-# - Balance Inquiry: Display the current balance of the logged in user's account.
-# - Transaction History: Provide a history of all transactions performed by the logged in user.
-# - Transfer: Allow logged in users to transfer money to other users’ accounts using their account    
-#   Number.
-# - Account Details: The user should be able to check their account details at once i.e their full name, username, account number.
